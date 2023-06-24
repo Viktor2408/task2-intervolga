@@ -5,3 +5,4 @@ $(function() {
     $("#number").mask("999 999");
     $("#whenIssued").mask("99.99.9999");
   });
+
